@@ -1,0 +1,27 @@
+{
+  "name": "hapi-mongo-migration",
+  "version": "0.1.0",
+  "description": "Hapi migration plugin for mongoDB. Use the mongodb-migrations module : https://github.com/emirotin/mongodb-migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goomeo/hapi-mongo-migration.git"
+  },
+  "keywords": [
+    "mongodb",
+    "migrations",
+    "hapi"
+  ],
+  "author": "Benjamin Besse",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Goomeo/hapi-mongo-migration/issues"
+  },
+  "homepage": "https://github.com/Goomeo/hapi-mongo-migration#readme",
+  "dependencies": {
+    "mongodb-migrations": "0.6.2"
+  }
+}
